@@ -2,21 +2,25 @@
 	{
 		"pk": 1,
 		"full_name":  "Jane Snake",
+    	"login":  "Snake12@y",
 		"skills": ["Python", "Go", "Linux"]
 	},
 	{
 		"pk": 2,
 		"full_name":  "Sheri Torres",
+    	"login":  "sHer23",
 		"skills": ["Java", "Swify", "Fortran", "Basic"]
 	},
 	{
 		"pk": 3,
 		"full_name":  "Burt Stein",
+    	"login":  "burtSt",
 		"skills": ["Planning", "Negotiation", "Management", "Sales"]
 	},
 	{
 		"pk": 4,
 		"full_name":  "Bauer Adkins",
+    	"login":  "2bBauer",
 		"skills": ["HTML", "CSS", "JavaScript", "React", "Node.js"]
 	}
 ]
